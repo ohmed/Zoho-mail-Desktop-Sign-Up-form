@@ -5,7 +5,7 @@
 
 /**
  *
- * @author mike
+ * @author mike Oduor
  */
 public class jst extends javax.swing.JFrame {
 
