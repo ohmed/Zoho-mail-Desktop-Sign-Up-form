@@ -105,6 +105,7 @@ public class jst extends javax.swing.JFrame {
 
         jLabel14.setText("and");
 
+        
         jLabel15.setForeground(new java.awt.Color(51, 51, 255));
         jLabel15.setText("Terms and Conditons");
 
